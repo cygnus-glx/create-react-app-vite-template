@@ -1,0 +1,21 @@
+
+
+
+.mainMenuBar{
+    width: 60vw;
+    height: 5vh;
+    background-color: black;
+    border-radius: 0.75vw;
+    border: 2px solid white;
+
+
+}
+
+.menuItemList{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    font-size: 1vw;
+}
