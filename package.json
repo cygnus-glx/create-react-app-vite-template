@@ -1,5 +1,5 @@
 {
-  "name": "@golden_sparrow_studio/react-app-with-vite",
+  "name": "create-react-app-with-vite",
   "version": "0.1.0",
   "description": "Create React App with Vite Bootstraped Template",
   "bin": "./bin/cli.js",
