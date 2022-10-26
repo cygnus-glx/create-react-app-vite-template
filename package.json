@@ -1,8 +1,7 @@
 {
-  "name": "@golden_sparrow_studio/create-react-app-with-vite",
+  "name": "create-react-app-with-vite",
   "version": "0.1.0",
   "description": "Create React App with Vite Bootstraped Template",
-  "bin": "./bin/cli.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
